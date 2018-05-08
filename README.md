@@ -1,5 +1,4 @@
-# Task list PhoneGap Application [![bitHound Score][bithound-img]][bithound-url]
-
+# Task list PhoneGap Application 
 > Task list application built with PhoneGap
 
 ## Usage
